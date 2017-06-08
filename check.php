@@ -1,7 +1,7 @@
 <?php
 define('CONS_ID', 'ID');
 define('SECRET_KEY', 'password');
-define('API_URL', 'http://to_be_defined/');
+define('API_URL', 'http://api_bpjs/');
 define('BPJS_NO', 'to_be_defined/');
 
 date_default_timezone_set('UTC');
